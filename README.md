@@ -5,4 +5,4 @@
 
 -> Used <b>squared_mean_error</b> as loss function and <b>stochastic gradient descent</b> as the optimizer function since this problem is a linear regression problem.
 
--> Used </b>Jupyter Notebook</b> on Google Colaboratory to train and test the neural network.
+-> Used <b>Jupyter Notebook</b> on Google Colaboratory to train and test the neural network.
