@@ -7,5 +7,7 @@
 
 -> Used <b>Jupyter Notebook</b> on Google Colaboratory to train and test the neural network.
 
+-------------------------------------------------------------------------------------------------------
+
 ### Handwritten Digits Recognizer
 -> Developed Deep Neural Network using TensorFlow and Python on Google Colaboratory to recognize handwritten digits (60K training images) and got 98% accuracy on 10K training images.
